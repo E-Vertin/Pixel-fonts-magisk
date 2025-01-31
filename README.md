@@ -3,6 +3,14 @@ A simple Magisk module to apply Google Sans family fonts extracted from a Pixel 
 
 **ONLY VERIFIED ON LINEAGE OS 22.1 WITH APATCH**
 
+## Disclaimer
+
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+
+* Please do some research if you have any concerns about this module before flashing it!
+
+* YOU are choosing to make these modifications; I AM NOT RESPONSIBLE for any consequences.
+
 ## Mechanism
 
 - v1.1
