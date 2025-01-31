@@ -1,7 +1,7 @@
 id=Miyabi-Pixel-Fonts
 name=Miyabi's Pixel fonts
-version=V1.0
-versionCode=1
+version=V1.1
+versionCode=1.1
 author=Hoshimi Miyabi
-description=To apply Google Sans family globally.
+description=To apply Google Sans family globally via Magisk.
 minMagisk=20200
