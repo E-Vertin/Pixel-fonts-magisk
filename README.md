@@ -1,6 +1,8 @@
 # Pixel-fonts-magisk
 A simple Magisk module to apply Google Sans family fonts extracted from a Pixel 9 running Android 15 QPR1 globally.
 
+Google offers many fonts on open source terms, but the Google Sans family being used here, which also refered as Product Sans, is not one of them. Please see [Google Fonts Website](www.google.com/fonts).
+
 From v1.1 on,  font mapping configuration file provided by this module can be a template for applying custom fonts. 
 
 *For `/system/etc/font_fallback.xml`, consult Line 210 and Line 244.*
