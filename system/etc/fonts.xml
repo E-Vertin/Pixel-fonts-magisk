@@ -242,7 +242,7 @@
       </font>
     </family>
 
-
+<!-- This is where you replace the "sans-serif" family -->>
 
     <family name="sans-serif">
         <font weight="100" style="normal">GoogleSans-Regular.ttf
@@ -336,6 +336,8 @@
           <axis tag="wght" stylevalue="900" />
         </font>
    </family>
+
+<!-- Above is where you replace the "sans-serif" family -->>
 
 
     <!-- Note that aliases must come after the fonts they reference. -->
@@ -498,6 +500,9 @@
     </family>
     <alias name="source-sans-pro-semi-bold" to="source-sans-pro" weight="600"/>
 
+
+<!-- This is where you replace the "roboto-flex" family -->>
+
     <family name="roboto-flex">
         <font weight="100" style="normal">GoogleSansFlex-Regular.ttf
           <axis tag="slnt" stylevalue="0" />
@@ -590,6 +595,9 @@
           <axis tag="wght" stylevalue="900" />
         </font>
     </family>
+
+<!-- Above is where you replace the "roboto-flex" family -->>
+
 
     <!-- fallback fonts -->
     <family lang="und-Arab" variant="elegant">

@@ -1,6 +1,12 @@
 # Pixel-fonts-magisk
 A simple Magisk module to apply Google Sans family fonts extracted from a Pixel 9 running Android 15 QPR1 globally.
 
+From v1.1 on,  font mapping configuration file provided by this module can be a template for applying custom fonts. 
+
+*For `/system/etc/font_fallback.xml`, consult Line 210 and Line 244.*
+
+*For `/system/etc/fonts.xml`, consult Line 340 and Line 504.*
+
 **ONLY VERIFIED ON LINEAGE OS 22.1 WITH APATCH**
 
 ## Disclaimer
@@ -17,7 +23,7 @@ A simple Magisk module to apply Google Sans family fonts extracted from a Pixel 
 
 The Roboto font family was mapped by the Android system to apply globally, `Roboto-Regular.ttf` and `RobotoFlex-Regular.ttf` to be exact.
 
-This Magisk module adds Google Sans font to `/system/etc/fonts` and manipulates `/system/etc/fonts.xml` and `/system/etc/font_fallback.xml` to define the Google Sans family and make the family "sans-serif" and "roboto-flex" to use `GoogleSans-Regular.ttf` and `GoogleSansFlex-Regular.ttf` as source files. 
+This Magisk module adds Google Sans font to `/system/etc/fonts`, and manipulates `/system/etc/fonts.xml` and `/system/etc/font_fallback.xml` to define the Google Sans family and make the family "sans-serif" and "roboto-flex" to use `GoogleSans-Regular.ttf` and `GoogleSansFlex-Regular.ttf` as source files. 
 
 Applying custom font by editing the font mapping configuration rather than replacing font itself might be a better idea...
 
