@@ -40,7 +40,7 @@ This Magisk module applies Google Sans globally by simply swapping two font file
 
 ### The transition from Always On Display to Lock Screen
 
-If you take a close look to the transition animation of Pixel phones, from Android's AOD to Lock Screen, the clock face font, Google Sans Clock, will transform from Light to Bold which I believe was made possible via a technology called "Variable Font", but sadly, I do not know how to implement it into this Magisk module.
+If you take a close look at the transition animation of Pixel phones, from Android's AOD to Lock Screen, the clock face font, Google Sans Clock, will transform from Light to Bold which I believe was made possible via a technology called "Variable Font", but sadly, I do not know how to implement it into this Magisk module.
 
 If you have any idea, please do not hesitate to fill a Pull request!
 
